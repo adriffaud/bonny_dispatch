@@ -1,0 +1,6 @@
+---
+apiVersion: test.airnity.net/v1alpha1
+kind: MyResource
+metadata:
+  namespace: default
+  name: my-test-resource
